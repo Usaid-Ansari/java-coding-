@@ -1,6 +1,6 @@
 public class Bit {
     public static void main(String[] args) {
-        int n = 68;
+        int n = 70;
         System.out.println(isOdd(n));
     }
 
